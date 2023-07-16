@@ -8,7 +8,6 @@ import Blogs from './components/pages/Blogs';
 import Services from './components/pages/Services';
 import SignUp from './components/pages/SignUp';
 
-
 const domain = 'dev-rei6goeabfncp82j.us.auth0.com';
 const clientId = 'UOeTDBiCn0KxC2yp1wjlr5zao9LXUQRI';
 const audience = 'HB68hhmokWHKOe2C3WF0TozrR-1U7VvSktFEQbWgAo3iw3YedVcPQF05QRIQyxDa';
